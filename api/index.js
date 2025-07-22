@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const chalk = require("chalk");
 const path = express()
+const ejs = require("ejs")
 
 
 app.set("view engine", ejs)
