@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const chalk = require("chalk");
-const path = express()
+const path = require('path')
 const ejs = require("ejs")
 
 
